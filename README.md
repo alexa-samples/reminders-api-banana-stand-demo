@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Banana Stand Reminders API Demo
 
 This code sample walks you through how to integrate the Reminders API into your skill. For addtional information, see the following complimentary material to the code:
